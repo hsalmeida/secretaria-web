@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/css/assets/bootstrap.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/css/assets/bootstrap.min.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/css/assets/font-awesome.min.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/css/assets/lunchtypes.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/css/assets/ngToast-animations.min.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/css/assets/ngToast.min.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/css/assets/normalize.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/css/fonts/fontawesome-webfont.eot" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/css/fonts/fontawesome-webfont.svg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/css/fonts/fontawesome-webfont.ttf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/css/fonts/fontawesome-webfont.woff" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/css/fonts/fontawesome-webfont.woff2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/css/fonts/glyphicons-halflings-regular.eot" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/css/fonts/glyphicons-halflings-regular.svg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/css/fonts/glyphicons-halflings-regular.ttf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/css/fonts/glyphicons-halflings-regular.woff" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/css/fonts/glyphicons-halflings-regular.woff2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/css/secretaria-web.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/js/assets/angular-animate.min.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/js/assets/angular-cookies.min.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/js/assets/angular-md5.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/js/assets/angular-mongolab.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/js/assets/angular-resource.min.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/js/assets/angular-sanitize.min.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/js/assets/angular-touch.min.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/js/assets/angular-ui-router.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/js/assets/angular.min.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/js/assets/bootstrap.min.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/js/assets/contextmenu.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/js/assets/gmaps.min.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/js/assets/jquery.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/js/assets/markerwithlabel.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/js/assets/modernizr.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/js/assets/ngToast.min.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/js/assets/ui-bootstrap-tpls-0.13.4.min.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/js/assets/waiting-for.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/js/components/login/login.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/js/directives/directives.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/js/routes/routes.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/js/secretaria-web.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/js/services/services.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/views/login/login.html" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

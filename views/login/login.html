@@ -1,0 +1,27 @@
+<div class="vertical-center">
+    <div class="container" ng-controller="LoginController">
+        <form class="form-signin" ng-submit="submit(_email, _pass, _remem)">
+            <h1 class="form-signin-heading">
+                Secretaria WEB
+            </h1>
+
+            <p class="text-center subtitle">apoio aos diretores e professores no dia a dia</p>
+            <label for="inputEmail" class="sr-only">Email</label>
+            <input type="email" id="inputEmail" class="form-control" placeholder="Email" ng-model="_email" required=""
+                   autofocus="">
+            <label for="inputPassword" class="sr-only">Senha</label>
+            <input type="password" id="inputPassword" class="form-control" placeholder="Senha" ng-model="_pass"
+                   required="">
+
+            <div class="checkbox">
+                <label>
+                    <input type="checkbox" value="remember-me" ng-model="_remem"> Lembrar de mim
+                </label>
+            </div>
+            <button class="btn btn-lg btn-primary btn-block" type="submit">Entrar</button>
+            <div class="bg-danger text-center top-10" ng-show="notFound">
+                <label class="text-info">Login ou senha inválidos</label>
+            </div>
+        </form>
+    </div>
+</div>
