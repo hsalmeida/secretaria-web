@@ -9,6 +9,14 @@ angular.module('secretariaweb').config(function ($stateProvider, $urlRouterProvi
             data: {
                 requiredlogin: false
             }
+        })
+        .state('home', {
+            url: "/home",
+            templateUrl: "views/home/home.html",
+            controller: 'HomeController',
+            data: {
+                requiredlogin: true
+            }
         });
 });
 

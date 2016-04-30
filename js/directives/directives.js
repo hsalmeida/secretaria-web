@@ -25,4 +25,14 @@ angular.module('secretariaweb')
             );
         }
     }
-);
+)
+    .directive('header', function () {
+        return {
+            restrict: 'A',
+            replace: true,
+            templateUrl: 'views/directives/header.html',
+            controller: ['$scope', '$rootScope', '$state', '$modal', function ($scope, $rootScope, $state, $modal) {
+
+            }]
+        }
+    });

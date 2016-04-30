@@ -37,7 +37,7 @@ angular.module('secretariaweb').controller('LoginController', ['$scope', '$rootS
                         $cookies.putObject('secretariaWebCookieKeyUsrObj', curUser);
                     }
 
-                    $state.go('mapa', {"grupo" : grupos[0]._id.$oid});
+                    $state.go('home');
 
                 } else {
                     $scope.notFound = true;
