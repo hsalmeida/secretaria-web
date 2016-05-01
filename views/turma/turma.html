@@ -1,0 +1,42 @@
+<div id="wrapper">
+    <nav header></nav>
+    <div id="page-wrapper">
+        <div class="row">
+            <div class="col-lg-12">
+                <h3 class="page-header">
+                    Turmas
+                </h3>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="list-group">
+                    <div class="list-group-item active">
+                        <input type="text" ng-model="searchtext" class="form-control" placeholder="Buscar pela escola ou turma" aria-describedby="basic-addon1">
+                    </div>
+                    <div class="list-group-item" ng-repeat="escola in escolas">
+                        <span class="list-group-item-heading escola-heading" ng-click="setselectedrow($index)">
+                            {{escola.nome}}
+                            <span class="label label-as-badge label-primary">
+                                {{escola.turmas.length}} Turmas
+                            </span>
+                        </span>
+                        <div class="list-group list-turmas" ng-class="{'list-turmas-show':$index === selectedrow}">
+                            <div class="list-group-item active">
+                                Turmas
+                            </div>
+                            <div class="list-group-item" ng-repeat="turma in escola.turmas">
+                                <label>{{turma.nome}}</label>
+                                <div class="pull-right">
+                                    <a class="btn btn-primary" tooltip="Mostrar detalhes" ui-sref="turma">
+                                        <span class="glyphicon glyphicon-search"></span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

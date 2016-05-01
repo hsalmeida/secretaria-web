@@ -17,6 +17,14 @@ angular.module('secretariaweb').config(function ($stateProvider, $urlRouterProvi
             data: {
                 requiredlogin: true
             }
+        })
+        .state('turma', {
+            url: "/turma",
+            templateUrl: "views/turma/turma.html",
+            controller: 'TurmaController',
+            data: {
+                requiredlogin: true
+            }
         });
 });
 
