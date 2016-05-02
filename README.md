@@ -1,2 +1,5 @@
 # secretaria-web
 para dar apoio aos diretores e professores no dia a dia
+
+O que seria necessário é um meio de integrar as informações dos alunos que estão na secretaria e nos diários dos professores. Por exemplo um sistema que criasse um relatório de alunos com uma quantidade selecionada de faltas já com os telefones,endereços ( para carta registradas) e interface para relatar ocorrência que ficaria no histórico do aluno.
+Vi. Ainda não dá para fazer muita coisa. Mas se nos vamos montar um programa foda acho que devemos incluir tudo que é possível para organizar um sistema de educação. Do banco de dados de alunos, da entrada de dados, de facilitar o preenchimento de documentos como ficha de inscrição, declarações, históricos e diplomas; de organizar horário, cadastrar professores, funcionários, retirar tudo quanto é possível de relatórios, cruzar dados, etc
